@@ -11,7 +11,7 @@ git clone https://github.com/Hiroki-Hikori/Bin2Dec/
 ```bash
 cd Bin2Dec
 chmod +x Bin2Dec
-./Bin2dec
+./Bin2Dec
 ```
 
 You can also view the original code by opening the `main.cpp` file.
